@@ -1,0 +1,1 @@
+Este projeto representa um exercício fundamental desenvolvido com o intuito de aplicar e consolidar os conceitos e conteúdos assimilados durante meus estudos em Java. O programa destaca as três operações básicas da programação: entrada de dados, processamento e saída de informações.
